@@ -2881,7 +2881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f179703bbe1404245b2301c3ab2e2085, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameCardScriptableObjectArray: []
   gridX: 2
   gridY: 2
   cardHolderPanel: {fileID: 552499282}
@@ -5666,7 +5665,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Welcome to Zenka Pass!
+  m_text: Welcome to Card Flip Game!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

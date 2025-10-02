@@ -49,10 +49,6 @@ public class GameSaveLoadManager : MonoBehaviour
             GameSaveDataLoadFailedCB?.Invoke();
             return null;
         }
-        finally
-        {
-            Debug.LogError("loading save data failed");
-        }
         return data;
     }
 
